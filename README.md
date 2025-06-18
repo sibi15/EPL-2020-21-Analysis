@@ -1,4 +1,4 @@
-# 2020/21 EPL Season Analysis
+# 2020/21 EPL Season Analysis: Team and Player Performance Breakdown
 This project explores and analyzes the English Premier League (EPL) 2020/21 season using player and team statistics. It leverages Python-based data science tools to draw insights about player performance, squad dynamics, and overall team efficiency.
 
 Tools and Libraries:
