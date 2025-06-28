@@ -1,14 +1,14 @@
 # 2020/21 EPL Season Analysis: Team and Player Performance Breakdown
 This project explores and analyzes the English Premier League (EPL) 2020/21 season using player and team statistics. It leverages Python-based data science tools to draw insights about player performance, squad dynamics, and overall team efficiency.
 
-Tools and Libraries:
+### Tools and Libraries:
 - Python: core programming language
 - Pandas: data wrangling and manipulation
 - NumPy: statistical operations
 - Matplotlib & Seaborn: data visualization
 - Excel: original data source
 
-Key Features:
+### Key Features:
 - Created new features: goals per match, minutes per match
 - Analyzed penalties scored vs missed using pie plots
 - Explored squad diversity by nationality and age groups
@@ -18,7 +18,7 @@ Key Features:
 - Compared goals with vs without assists
 - Used box plots for age variation within teams
 
-Key Insights:
+### Key Insights:
 - Majority of goals were assisted (~67%)
 - A few clubs carried younger squads with concentrated U-20 talent
 - Certain teams relied heavily on key players for both goals and assists
